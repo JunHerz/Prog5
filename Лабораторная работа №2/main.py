@@ -1,3 +1,4 @@
+#Филоненко НМ ИВТ 1.1 3 курс
 from get_weather import get_weather_data
 
 MY_KEY = 'секрет)' # Константа
