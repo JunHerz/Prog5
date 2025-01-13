@@ -1,3 +1,4 @@
+Филоненко НМ ИВТ 1.1 3 курс
 import requests
 from xml.etree import ElementTree as ET
 import time
