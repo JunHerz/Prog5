@@ -1,3 +1,4 @@
+#Филоненко НМ ИВТ 1.1 3 курс
 from main import EvenNumbersIterator, my_genn
 import pytest
 
