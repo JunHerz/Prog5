@@ -39,7 +39,7 @@ def test_coord():
     import json
     assert len(
         json.loads(get_weather.get_weather_data('Riga', api_key=my_key)).get('coord')) == 2, \
-        "Неправильные координаты: их должно быть дву"
+        "Неправильные координаты: их должно быть две"
 
 
 def test_temp_type():
